@@ -80,3 +80,8 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+
+# add: flutter_native_splash
+flutter_native_splash:
+  image: assets/icon/me.png
+  color: "79cd0b"
